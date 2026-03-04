@@ -1,0 +1,8 @@
+A Sınıfı Yaş Ortalaması: 12.25
+B Sınıfı Yaş Ortalaması: 17.25
+C Sınıfı Yaş Ortalaması: 16.0
+D Sınıfı Yaş Ortalaması: 20.75
+E Sınıfı Yaş Ortalaması: 14.5
+F Sınıfı Yaş Ortalaması: 13.0
+G Sınıfı Yaş Ortalaması: 14.25
+H Sınıfı Yaş Ortalaması: 15.0

@@ -1,0 +1,24 @@
+Volkan Demirel,Fenerbahçe,39
+Mauricio Isla,Fenerbahçe,45
+Hasan Ali Kaldırım,Fenerbahçe,32
+Simon Kjær,Fenerbahçe,32
+Mehmet Topal,Fenerbahçe,21
+Alper Potuk,Fenerbahçe,43
+Ozan Tufan,Fenerbahçe,26
+Fernandão,Fenerbahçe,27
+Robin van Persie,Fenerbahçe,21
+Mehmet Ekici,Fenerbahçe,23
+Uygar Zeybek,Fenerbahçe,41
+Nabil Dirar,Fenerbahçe,39
+Idriss Carlos Kameni,Fenerbahçe,37
+Şener Özbayraklı,Fenerbahçe,36
+Volkan Şen,Fenerbahçe,25
+İsmail Köybaşı,Fenerbahçe,29
+Gregory van der Wiel,Fenerbahçe,27
+Mathieu Valbuena,Fenerbahçe,34
+Roman Neustädter,Fenerbahçe,33
+Martin Škrtel,Fenerbahçe,27
+Salih Uçan,Fenerbahçe,22
+Josef de Souza,Fenerbahçe,44
+Aatif Chahechouhe,Fenerbahçe,50
+Miroslav Stoch,Fenerbahçe,32
