@@ -1,0 +1,5 @@
+file = open("Dosyadan Veri Okuma.txt", "r", encoding="utf=8")
+icerik = file.read()
+print ("Joey:")
+print (icerik)
+file.close()
